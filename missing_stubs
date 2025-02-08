@@ -1,0 +1,15 @@
+pandas-stubs
+types-PyYAML
+types-Pygments
+types-cachetools
+types-cffi
+types-colorama
+types-decorator
+types-jsonschema
+types-protobuf
+types-psutil
+types-pyOpenSSL
+types-pycurl
+types-requests
+types-six
+types-toml
